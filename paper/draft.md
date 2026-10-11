@@ -1,10 +1,10 @@
 # XAI-Based Network Intrusion Detection System
 ## A Comparative Study with SHAP Explainability on CICIDS-2017
 
-**Author:** Chandra Sekhar Chakraborty  
+**Author:** MitGandhi4<br>
 **Affiliation:** Department of Computer Science & Engineering, MAKAUT  
 **Date:** April 2026  
-**Repository:** https://github.com/ChandraVerse/xai-network-intrusion-detection
+**Repository:** https://github.com/MitGandhi4/Anti_Net_Intrus
 
 ---
 

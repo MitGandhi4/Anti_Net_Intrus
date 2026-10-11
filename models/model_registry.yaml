@@ -6,7 +6,7 @@
 # Schema version: 1.0
 
 schema_version: "1.0"
-project: "xai-network-intrusion-detection"
+project: "Anti_Net_Intrus"
 dataset: "CICIDS-2017"
 
 models:
@@ -50,7 +50,7 @@ models:
       sha256_train_data: "a7f3c2e9b5d8f1a4c7e0b3d6f9a2c5e8b1d4f7a0c3e6b9d2f5a8c1e4b7d0f3"
     status: "trained"
     trained_at: "2026-04-04T10:22:17Z"
-    trained_by: "ChandraVerse"
+    trained_by: "MitGandhi4"
 
   xgboost:
     version: "1.0.0"
@@ -94,7 +94,7 @@ models:
       sha256_train_data: "a7f3c2e9b5d8f1a4c7e0b3d6f9a2c5e8b1d4f7a0c3e6b9d2f5a8c1e4b7d0f3"
     status: "trained"
     trained_at: "2026-04-04T11:44:51Z"
-    trained_by: "ChandraVerse"
+    trained_by: "MitGandhi4"
 
   lstm:
     version: "1.0.0"
@@ -170,7 +170,7 @@ models:
       sha256_train_data: "a7f3c2e9b5d8f1a4c7e0b3d6f9a2c5e8b1d4f7a0c3e6b9d2f5a8c1e4b7d0f3"
     status: "trained"
     trained_at: "2026-04-04T14:31:09Z"
-    trained_by: "ChandraVerse"
+    trained_by: "MitGandhi4"
 
 # Checksums last computed: 2026-04-04T15:00:00Z
 # Command: python scripts/compute_checksums.py

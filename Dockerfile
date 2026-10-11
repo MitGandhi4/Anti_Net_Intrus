@@ -4,7 +4,7 @@
 # ─────────────────────────────────────────────────────────────
 FROM python:3.11-slim
 
-LABEL maintainer="Chandra Sekhar Chakraborty <chakrabortychandrasekhar185@gmail.com>"
+LABEL maintainer="MitGandhi4 <129717739+MitGandhi4@users.noreply.github.com>"
 LABEL description="XAI-Based NIDS — Streamlit dashboard with SHAP explainability"
 
 # System dependencies for scientific Python stack

@@ -1,7 +1,7 @@
 """
 Phase 5 — XAI Network Intrusion Detection Dashboard
 ====================================================
-Author : Chandra Sekhar Chakraborty
+Author : MitGandhi4
 Run    : streamlit run dashboard/app.py
 Prereqs: Run notebooks 01-04 first so the following exist:
            models/random_forest.pkl

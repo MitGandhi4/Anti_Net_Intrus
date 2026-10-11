@@ -2,7 +2,7 @@
 
 **Title:** *Building an Explainable AI-Based Network Intrusion Detection System Using Machine Learning and SHAP*
 
-**Authors:** Chandra Sekhar Chakraborty  
+**Authors:** MitGandhi4<br>
 **Affiliation:** Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal, India  
 **Status:** Draft in progress — expected completion April 2026  
 **Target Venue:** IEEE ICMLA 2026 / Arxiv preprint  

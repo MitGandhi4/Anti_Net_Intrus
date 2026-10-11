@@ -8,7 +8,7 @@
 | **Framework** | scikit-learn 1.4+ |
 | **Serialization** | `joblib` → `models/random_forest.pkl` |
 | **Version** | 1.0 (April 2026) |
-| **Author** | Chandra Sekhar Chakraborty |
+| **Author** | MitGandhi4 |
 | **License** | MIT |
 
 ### Hyperparameters

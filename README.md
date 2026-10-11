@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![CI](https://github.com/ChandraVerse/xai-network-intrusion-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/ChandraVerse/xai-network-intrusion-detection/actions/workflows/ci.yml)
+[![CI](https://github.com/MitGandhi4/Anti_Net_Intrus/actions/workflows/ci.yml/badge.svg)](https://github.com/MitGandhi4/Anti_Net_Intrus/actions/workflows/ci.yml)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python)
 ![ML](https://img.shields.io/badge/Models-RF%20%7C%20XGBoost%20%7C%20LSTM-orange)
@@ -267,8 +267,8 @@ Or via Docker (see below).
 
 ```bash
 # 1. Clone
-git clone https://github.com/ChandraVerse/xai-network-intrusion-detection.git
-cd xai-network-intrusion-detection
+git clone https://github.com/MitGandhi4/Anti_Net_Intrus.git
+cd Anti_Net_Intrus
 
 # 2. Create virtual environment
 python -m venv venv
@@ -328,7 +328,7 @@ docker run -p 8501:8501 xai-nids
 ## Project Structure
 
 ```
-xai-network-intrusion-detection/
+Anti_Net_Intrus/
 │
 ├── .github/
 │   └── workflows/
@@ -472,7 +472,7 @@ Detailed model cards covering performance, bias, limitations, and intended use:
 A companion IEEE-format research paper is included in [`paper/`](paper/):
 
 > *"Explainable AI for Network Intrusion Detection: Combining SHAP and LIME for Transparent SOC Triage"*  
-> Chandra Sekhar Chakraborty — April 2026
+> MitGandhi4 — April 2026
 
 The paper covers methodology, dataset handling, model selection rationale, explainability framework design, and evaluation results.
 
@@ -512,13 +512,11 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-**Chandra Sekhar Chakraborty**  
+**MitGandhi4**<br>
 Cybersecurity Analyst | SOC Analyst Aspirant | B.Tech CSE — Graduating 2026  
 📍 West Bengal, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/chandrasekhar-chakraborty)
-[![GitHub](https://img.shields.io/badge/GitHub-ChandraVerse-181717?logo=github)](https://github.com/ChandraVerse)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50)](https://chandraverse.github.io/chandraverse-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-MitGandhi4-181717?logo=github)](https://github.com/MitGandhi4)
 
 ---
 

@@ -8,7 +8,7 @@
 | **Framework** | xgboost 2.0+ |
 | **Serialization** | `joblib` → `models/xgboost_model.pkl` |
 | **Version** | 1.0 (April 2026) |
-| **Author** | Chandra Sekhar Chakraborty |
+| **Author** | MitGandhi4 |
 | **License** | MIT |
 
 ### Hyperparameters

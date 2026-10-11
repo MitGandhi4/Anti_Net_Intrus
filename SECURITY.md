@@ -6,7 +6,7 @@ This is an open-source research project. If you discover a security vulnerabilit
 
 Instead, report it privately:
 
-**Email:** [Open a private security advisory on GitHub](https://github.com/ChandraVerse/xai-network-intrusion-detection/security/advisories/new)
+**Email:** [Open a private security advisory on GitHub](https://github.com/MitGandhi4/Anti_Net_Intrus/security/advisories/new)
 
 Please include:
 - A clear description of the vulnerability

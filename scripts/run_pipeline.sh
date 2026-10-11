@@ -24,7 +24,7 @@ ok()   { echo -e "${GREEN}[OK]${NC} $1"; }
 fail() { echo -e "${RED}[FAIL]${NC} $1"; exit 1; }
 
 # ---- 0. Guard ------------------------------------------------------------
-[[ -f requirements.txt ]] || fail "Run from repo root: cd xai-network-intrusion-detection"
+[[ -f requirements.txt ]] || fail "Run from repo root: cd Anti_Net_Intrus"
 python -c "import pandas, sklearn, xgboost, shap, streamlit" 2>/dev/null \
   || fail "Missing dependencies. Run: pip install -r requirements.txt"
 

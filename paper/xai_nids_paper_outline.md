@@ -1,9 +1,9 @@
 # XAI-Based Network Intrusion Detection: A Comparative Study
 ## Paper Outline
 
-**Authors**: Chandra Sekhar Chakraborty  
+**Authors**: MitGandhi4<br>
 **Dataset**: CICIDS-2017  
-**GitHub**: https://github.com/ChandraVerse/xai-network-intrusion-detection
+**GitHub**: https://github.com/MitGandhi4/Anti_Net_Intrus
 
 ---
 

@@ -170,7 +170,7 @@ def build():
         'PortScan (T1046)  |  Web Attack XSS/SQLi/BruteForce (T1059/T1190)  |  Infiltration (T1078)  |  Bot (T1071)',
         ha='center', fontsize=7.8, color=C['muted'])
     ax.text(9, 1.48,
-        'github.com/ChandraVerse/xai-network-intrusion-detection  |  MIT License  |  April 2026',
+        'github.com/MitGandhi4/Anti_Net_Intrus  |  MIT License  |  April 2026',
         ha='center', fontsize=8, color=C['border'], fontstyle='italic')
 
     ax.add_patch(FancyBboxPatch((0.1, 0.1), 17.8, 21.8,

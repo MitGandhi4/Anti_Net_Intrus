@@ -9,8 +9,8 @@ or expand the Streamlit dashboard.
 ## Getting Started
 
 ```bash
-git clone https://github.com/ChandraVerse/xai-network-intrusion-detection.git
-cd xai-network-intrusion-detection
+git clone https://github.com/MitGandhi4/Anti_Net_Intrus.git
+cd Anti_Net_Intrus
 python -m venv venv
 source venv/bin/activate   # Linux / macOS
 venv\Scripts\activate      # Windows
@@ -129,6 +129,6 @@ For bugs, always include:
 
 ## Contact
 
-**Author**: Chandra Sekhar Chakraborty  
-📧 chakrabortychandrasekhar185@gmail.com  
-🔗 [GitHub](https://github.com/ChandraVerse) | [Twitter / X](https://twitter.com/CS_Chakraborty)
+**Author**: MitGandhi4<br>
+📧 129717739+MitGandhi4@users.noreply.github.com<br>
+🔗 [GitHub](https://github.com/MitGandhi4)

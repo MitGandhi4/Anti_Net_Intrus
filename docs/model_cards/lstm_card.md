@@ -8,7 +8,7 @@
 | **Framework** | TensorFlow / Keras 2.15+ |
 | **Serialization** | `models/lstm_model.tar.gz` (contains `lstm_model.h5` weights + architecture) |
 | **Version** | 1.0 (April 2026) |
-| **Author** | Chandra Sekhar Chakraborty |
+| **Author** | MitGandhi4 |
 | **License** | MIT |
 
 ### Architecture

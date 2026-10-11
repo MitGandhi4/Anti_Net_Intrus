@@ -98,5 +98,5 @@
   <!-- Legend -->
   <rect x="60" y="692" width="780" height="22" rx="6" fill="#edf2f7" stroke="#e2e8f0" stroke-width="1"/>
   <text x="90" y="707" font-size="9" fill="#718096">Input (Blue)   Preprocessing (Green)   Detection (Red)   XAI (Purple)   Dashboard (Orange)   Deploy (Gray)</text>
-  <text x="800" y="707" text-anchor="end" font-size="9" fill="#a0aec0">Chandra Sekhar Chakraborty · April 2026</text>
+  <text x="800" y="707" text-anchor="end" font-size="9" fill="#a0aec0">MitGandhi4 · April 2026</text>
 </svg>
