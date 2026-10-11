@@ -2,30 +2,30 @@
   "models": [
     {
       "model": "RandomForest",
-      "accuracy": 0.70625,
-      "macro_f1": 0.704948,
-      "mean_fpr": 0.022596,
-      "inference_ms_per_flow": 0.0103,
+      "accuracy": 0.711161,
+      "macro_f1": 0.710405,
+      "mean_fpr": 0.022218,
+      "inference_ms_per_flow": 0.0054,
       "n_test_samples": 2240,
-      "train_time_s": 0.86
+      "train_time_s": 0.7
     },
     {
       "model": "XGBoost",
       "accuracy": 0.709375,
       "macro_f1": 0.709471,
       "mean_fpr": 0.022356,
-      "inference_ms_per_flow": 0.006,
+      "inference_ms_per_flow": 0.0049,
       "n_test_samples": 2240,
-      "train_time_s": 5.04
+      "train_time_s": 3.66
     },
     {
       "model": "LSTM",
-      "accuracy": 0.69375,
-      "macro_f1": 0.663494,
-      "mean_fpr": 0.023558,
-      "inference_ms_per_flow": 0.1293,
+      "accuracy": 0.701339,
+      "macro_f1": 0.651284,
+      "mean_fpr": 0.022974,
+      "inference_ms_per_flow": 0.1009,
       "n_test_samples": 2240,
-      "train_time_s": 8.74
+      "train_time_s": 7.06
     }
   ],
   "dataset": "CICIDS-2017 (synthetic balanced, GitHub Actions generated)",

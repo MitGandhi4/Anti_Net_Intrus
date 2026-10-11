@@ -3,7 +3,7 @@
   "accuracy": 0.709375,
   "macro_f1": 0.709471,
   "mean_fpr": 0.022356,
-  "inference_ms_per_flow": 0.006,
+  "inference_ms_per_flow": 0.0049,
   "n_test_samples": 2240,
-  "train_time_s": 5.04
+  "train_time_s": 3.66
 }

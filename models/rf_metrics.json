@@ -1,9 +1,9 @@
 {
   "model": "RandomForest",
-  "accuracy": 0.70625,
-  "macro_f1": 0.704948,
-  "mean_fpr": 0.022596,
-  "inference_ms_per_flow": 0.0103,
+  "accuracy": 0.711161,
+  "macro_f1": 0.710405,
+  "mean_fpr": 0.022218,
+  "inference_ms_per_flow": 0.0054,
   "n_test_samples": 2240,
-  "train_time_s": 0.86
+  "train_time_s": 0.7
 }
